@@ -1,4 +1,4 @@
-public class SmartTv{
+public class SmartTv {
     boolean ligada = false;
     int canal = 1;
     int volume = 25;
@@ -34,4 +34,5 @@ public class SmartTv{
         canal --;
         System.out.println("Diminuindo o canal para: " + canal);
     }
+
 }
